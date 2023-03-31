@@ -1,4 +1,6 @@
 # WJ-Gerador-de-Senhas
+![imagem do software](images/geradorSenhas-2.png)
+![imagem do software](images/geradorSenhas.png)
 
 ## O projeto foi dividido em 3 arquivos:
 - main.py onde está a interface;
