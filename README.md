@@ -1,4 +1,4 @@
-# WJ-Gerador-de-Senhas
+# WPassGenerator
 ![imagem do software](images/geradorSenhas-2.png)
 ![imagem do software](images/geradorSenhas.png)
 
